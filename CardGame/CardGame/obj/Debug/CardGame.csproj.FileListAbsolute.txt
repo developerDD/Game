@@ -4,3 +4,7 @@ D:\workDD\CardGame\CardGame\bin\Debug\CardGame.pdb
 D:\workDD\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
 D:\workDD\CardGame\CardGame\obj\Debug\CardGame.exe
 D:\workDD\CardGame\CardGame\obj\Debug\CardGame.pdb
+D:\Game\CardGame\CardGame\bin\Debug\CardGame.exe.config
+D:\Game\CardGame\CardGame\obj\Debug\CardGame.exe
+D:\Game\CardGame\CardGame\obj\Debug\CardGame.pdb
+D:\Game\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
